@@ -1,4 +1,4 @@
-# Module 3 project: DC housing price
+# Module 3 project: DC Housing Price
 
 **Project Members:** 
 
@@ -17,6 +17,6 @@ This analysis uses housing market data from the time period of February 2012 to 
 **[Date Source](https://www.redfin.com/blog/data-center)**
 
 ## Data Visualization 
-![alt text](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/Time%20Series%20-%20Medium%20House%20Price.png)
+![Medium House Sale Price](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/Time%20Series%20-%20Medium%20House%20Price.png)
 
 See all the details in [DC_house_price_MasterFile.ipynb](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_house_price_MasterFile.ipynb).
