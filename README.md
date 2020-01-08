@@ -25,6 +25,6 @@ Homes Sold MoM:
 ![Homes Sold MoM](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Homes%20Sold%20Month-over-Month.png)
 
 Inventory MoM:
-![MInventory MoM](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/Time%20Series%20-%20Medium%20House%20Price.png)
+![MInventory MoM](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Homes%20Sold%20Month-over-Month.png)
 
-See all the details in [DC_house_price_MasterFile.ipynb](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Homes%20Sold%20Month-over-Month.png).
+See all the details in [DC_house_price_MasterFile.ipynb](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_house_price_MasterFile.ipynb).
