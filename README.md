@@ -17,6 +17,6 @@ This analysis uses housing market data from the time period of February 2012 to 
 **[Date Source](https://www.redfin.com/blog/data-center)**
 
 ## Data Visualization 
-The data visualization section produces the final outputs used in the presentation. We define the profit in two senses: (1) pure profit (domestic gross - movie budge), and (2) dollor returns. It includes the comparisions between profit and major attributes: diretors, writers, and genres. In addition, we concludes that the imdb rating is not a good indicator to make most profitible movie.
+![alt text](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/Time%20Series%20-%20Medium%20House%20Price.png)
 
 See all the details in [DC_house_price_MasterFile.ipynb](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_house_price_MasterFile.ipynb).
