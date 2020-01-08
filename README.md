@@ -12,4 +12,4 @@ Upon reconfiguration, these regions will then show similar/same sale prices and 
 
 **Summary of Data:**
 
-This analysis uses housing market data from the time period of February 20120 to October 2019, including data for prices (median sale price, percentage of homes sold above list price, percentage of homes that had price drop, etc.), inventory (number of homes on market, new listings, months of supply, etc.), and sales (number of homes sold, median days on market, etc.).
+This analysis uses housing market data from the time period of February 2012 to October 2019, including data for prices (median sale price, percentage of homes sold above list price, percentage of homes that had price drop, etc.), inventory (number of homes on market, new listings, months of supply, etc.), and sales (number of homes sold, median days on market, etc.).
