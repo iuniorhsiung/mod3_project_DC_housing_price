@@ -28,4 +28,4 @@ This analysis uses housing market data from the time period of February 2012 to 
 
 **Slide Deck:**
 <br>
-[Presentation Slides](https://docs.google.com/open?id=1oPQQYPiz5Nd-Fg5yPkAnx5xB__j5pRDhFTrwiZahXwU)
+[Presentation Slides](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/Mod%203%20DC%20house%20prices.pdf)
