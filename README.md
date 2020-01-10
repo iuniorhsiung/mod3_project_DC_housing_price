@@ -1,30 +1,31 @@
-# Module 3 project: DC Housing Price
+# Washington DC Housing Market Analysis
 
-**Project Members:** 
+## Contributors: 
 
-Nate Lu and Michael Pallante
+[Nate Lu](https://github.com/iuniorhsiung)
+<br>
+[Michael Pallante](https://github.com/MFAP9)
 
 ## Project Goal:
 
-The goal of this analysis is to reconfigure and group the Washington DC regions according to various housing statistics.
-
-Upon reconfiguration, these regions will then show similar/same sale prices and other housing characteristics.
+The goal of this analysis is to explore Washington DC housing market data and gather initial findings. From these findings, we will reconfigure and group the Washington DC regions according to various housing statistics. Upon reconfiguration, these regions will then show similar/same sale prices and other housing characteristics. This analysis will be the basis of future evaluation including building predictive models to predict future home sale price and other notable housing market variables.
 
 ## Summary of Data:
 
 This analysis uses housing market data from the time period of February 2012 to October 2019, including data for prices (median sale price, percentage of homes sold above list price, percentage of homes that had price drop, etc.), inventory (number of homes on market, new listings, months of supply, etc.), and sales (number of homes sold, median days on market, etc.).
 
-**[Date Source](https://www.redfin.com/blog/data-center)**
+## Summary of Files:
 
-## Data Visualization 
+**Data Source:**
+<br>
+[Redfin](https://www.redfin.com/blog/data-center)
 
-Median House Sale Price:
-![Median House Sale Price](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Median%20House%20Price.png)
+**Python Notebooks:**
+<br>
+[Exploratory Data Analysis]
+<br>
+[Technical Notebook](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_house_price_MasterFile.ipynb)
 
-Homes Sold MoM:
-![Homes Sold MoM](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Homes%20Sold%20Month-over-Month.png)
-
-Inventory MoM:
-![MInventory MoM](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Homes%20Sold%20Month-over-Month.png)
-
-See all the details in [DC_house_price_MasterFile.ipynb](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_house_price_MasterFile.ipynb).
+**Slide Deck:**
+<br>
+[Presentation Slides](https://docs.google.com/open?id=1oPQQYPiz5Nd-Fg5yPkAnx5xB__j5pRDhFTrwiZahXwU)
