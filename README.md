@@ -3,6 +3,7 @@
 ## Contributors: 
 
 [Nate Lu](https://github.com/iuniorhsiung)
+<br>
 [Michael Pallante](https://github.com/MFAP9)
 
 ## Project Goal:
@@ -16,13 +17,17 @@ This analysis uses housing market data from the time period of February 2012 to 
 ## Summary of Files:
 
 **Data Source:**
+<br>
 [Redfin](https://www.redfin.com/blog/data-center)
 
 **Python Notebooks:**
+<br>
 [Exploratory Data Analysis]
+<br>
 [Technical Notebook](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_house_price_MasterFile.ipynb)
 
 **Slide Deck:**
+<br>
 [Presentation Slides](https://docs.google.com/open?id=1oPQQYPiz5Nd-Fg5yPkAnx5xB__j5pRDhFTrwiZahXwU)
 
 ## Data Visualizations:
