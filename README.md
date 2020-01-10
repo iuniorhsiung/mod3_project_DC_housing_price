@@ -29,14 +29,3 @@ This analysis uses housing market data from the time period of February 2012 to 
 **Slide Deck:**
 <br>
 [Presentation Slides](https://docs.google.com/open?id=1oPQQYPiz5Nd-Fg5yPkAnx5xB__j5pRDhFTrwiZahXwU)
-
-## Data Visualizations:
-
-Median Home Sale Price:
-![Median House Sale Price](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Median%20House%20Price.png)
-
-Homes Sold Month-over-Month:
-![Homes Sold MoM](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Homes%20Sold%20Month-over-Month.png)
-
-Inventory Month-over-Month:
-![MInventory MoM](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/data_visualizations/Time%20Series%20-%20Homes%20Sold%20Month-over-Month.png)
