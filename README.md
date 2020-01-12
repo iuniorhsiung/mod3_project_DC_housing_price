@@ -20,6 +20,10 @@ This analysis uses housing market data from the time period of February 2012 to 
 <br>
 [Redfin](https://www.redfin.com/blog/data-center)
 
+**Data folder: Downloaded data and modified datasets**
+<br>
+[Data](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/tree/master/data)
+
 **Python Notebooks:**
 <br>
 [Exploratory Data Analysis](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_House_Prices_EDA.ipynb)
