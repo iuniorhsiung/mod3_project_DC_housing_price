@@ -22,9 +22,9 @@ This analysis uses housing market data from the time period of February 2012 to 
 
 **Python Notebooks:**
 <br>
-[Exploratory Data Analysis]
+[Exploratory Data Analysis](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_House_Prices_EDA.ipynb)
 <br>
-[Technical Notebook](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_house_price_MasterFile.ipynb)
+[Technical Notebook](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/DC_House_Prices_Technical_Notebook.ipynb)
 
 **Slide Deck:**
 <br>
