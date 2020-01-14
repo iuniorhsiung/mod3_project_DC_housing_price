@@ -16,5 +16,5 @@ test_p_value_3(p = .05, name = 'mutest')
 test_matrix_3
 
 #save inventory_mom test matrix to data folder
-test_matrix_3.to_csv('data/TM_Inventory MoM.csv')
+test_matrix_3.to_csv('../data/TM_Inventory MoM.csv')
 

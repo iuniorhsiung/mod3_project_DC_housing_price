@@ -18,6 +18,6 @@ plt.xticks(range(5, 100, 12))
 plt.show()
 
 #save image of visualization
-sns_plot.figure.savefig("data_visualizations/Time Series - Inventory Month-over-Month_Group.png")
+sns_plot.figure.savefig("../data_visualizations/Time Series - Inventory Month-over-Month_Group.png")
 
 

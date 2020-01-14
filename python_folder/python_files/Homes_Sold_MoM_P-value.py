@@ -17,5 +17,5 @@ test_p_value_2(p = .05, name = 'mutest')
 
 
 # Save the final testing results for homes_sold_mom in data folder
-test_matrix_2.to_csv('data/TM_Homes Sold MoM.csv')
+test_matrix_2.to_csv('../data/TM_Homes Sold MoM.csv')
 

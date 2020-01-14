@@ -28,7 +28,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # set up name label to match each csv dataset
 lst = []
 for i in range(1,83):
-    location = 'data/'
+    location = '../data/'
     ext = 'data_crosstab ({}).csv'.format(i)
     final = location + ext
     lst.append(final)
@@ -68,7 +68,7 @@ for df in df_list:
     final_lst.append(df["Median Sale Price" + "_"+ str(i)][0:93])
     i += 1
 median_sale_price = pd.concat(final_lst, axis = 1)
-median_sale_price.to_csv('data/Median Sale Price.csv')
+median_sale_price.to_csv('../data/Median Sale Price.csv')
 #median_sale_price
 
 #Creating dataframe containing Homes Sold MoM of each Washington DC region from Feb. 2012 to Oct. 2019 
@@ -78,7 +78,7 @@ for df in df_list:
     final_lst_2.append(df["Homes Sold MoM " + "_"+ str(i)][0:93])
     i += 1
 homes_sold_mom = pd.concat(final_lst_2, axis = 1)
-homes_sold_mom.to_csv('data/Homes Sold MoM.csv')
+homes_sold_mom.to_csv('../data/Homes Sold MoM.csv')
 #homes_sold_mom
 
 #Creating dataframe containing inventory MoM of each Washington DC region from Feb. 2012 to Oct. 2019 
@@ -88,6 +88,6 @@ for df in df_list:
     final_lst_3.append(df["Inventory MoM " + "_"+ str(i)][0:93])
     i += 1
 inventory_mom = pd.concat(final_lst_3, axis = 1)
-inventory_mom.to_csv('data/Inventory MoM.csv')
+inventory_mom.to_csv('../data/Inventory MoM.csv')
 #inventory_mom
 

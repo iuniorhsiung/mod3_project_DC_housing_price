@@ -18,4 +18,4 @@ test_p_value(p = .000001, name = 'kttest')
 #test_matrix.shape
 
 # Save the final testing results for median_sale_price in data folder
-test_matrix.to_csv('data/TM_Median Sale Price.csv')
+test_matrix.to_csv('../data/TM_Median Sale Price.csv')
