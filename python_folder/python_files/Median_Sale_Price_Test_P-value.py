@@ -1,4 +1,4 @@
- Create a function to detect the hypothesis testing results. 0: reject null, 1: fail to reject null
+Create a function to detect the hypothesis testing results. 0: reject null, 1: fail to reject null
 def test_p_value(p = .05, name = 'ttest'):
     name_list = []
     for i in range(len(test_matrix)):
