@@ -30,10 +30,14 @@ This analysis uses housing market data from the time period of February 2012 to 
 <br>
 [Presentation Slides](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/blob/master/presentation/Mod%203%20DC%20house%20prices.pdf)
 
-**Data folder: Downloaded data and modified datasets**
+**Data Folder (all downloaded data and modified datasets used in our final python notebooks):**
 <br>
-[Data Folder](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/tree/master/data)
+[Data](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/tree/master/data)
 
-**Python folder:**
+**Data Visualizations Folder (any visualizations used in our final python notebooks or presentation):**
 <br>
-[Python Folder](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/tree/master/python_folder)
+[Data Visualizations](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/tree/master/data_visualizations)
+
+**Python Folder (any python files used in our final python notebooks, and other python notebooks used for testing):**
+<br>
+[Python Files and Test Notebooks](https://github.com/iuniorhsiung/mod3_project_DC_housing_price/tree/master/python_folder)
